@@ -121,12 +121,3 @@ SHRAVANI HOLLA M
 Computer Science Engineering Student
 This project was developed as a practical project to demonstrate data cleaning, automation, analysis, and reporting using Python.
 
-
-### 3. Save it
-
-Scroll to the bottom → **Commit changes**.
-
-For the commit message, enter:
-
-```text
-Complete project documentation
